@@ -1,0 +1,3 @@
+﻿  M3 Final.cpp
+C:\Users\Rafael\source\repos\M3 Final\M3 Final.cpp(117,1): warning C4715: 'LinkedList::isFull': not all control paths return a value
+  M3 Final.vcxproj -> C:\Users\Rafael\source\repos\M3 Final\x64\Debug\M3 Final.exe
